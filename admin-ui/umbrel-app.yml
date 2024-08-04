@@ -1,21 +1,24 @@
 manifestVersion: 1
 id: admin-ui
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+name: Admin Panel
+tagline: Empower Your Workflow with Effortless Admin Management
+icon: https://svgshare.com/i/18zM.svg
 category: Development
 version: "1.0.0"
 port: 4321
 description: >-
-  Add your app's description here.
-
+  The Admin Panel is a powerful and intuitive tool designed to streamline your administrative tasks. 
+  With a clean interface and robust features, it provides you with all the tools you need to manage your data, users, and workflows effectively.
+  Whether you're overseeing operations or configuring settings, this panel makes it easy to stay organized and in control. 
+  Enjoy seamless navigation, real-time updates, and customizable options to fit your specific needs. 
+  Elevate your administrative efficiency and focus on what truly matters with our comprehensive admin panel solution.
 
   You can also add newlines!
 
 developer: Harut
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
+website: https://github.com/harutaristakesyan
+submitter: Harut
+submission: https://github.com/harutaristakesyan/admin-deployment
 repo: https://github.com/getumbrel/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
@@ -24,7 +27,7 @@ gallery:
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
-dependencies: []
+dependencies: [ ]
 path: ""
 defaultUsername: ""
 defaultPassword: ""
