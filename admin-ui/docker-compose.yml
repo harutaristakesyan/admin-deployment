@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  admin-ui:
+    image: mkrezka/admin-ui:latest
+    container_name: admin-ui
+    ports:
+      - "4321:4321"
