@@ -4,7 +4,7 @@ name: Admin Panel
 tagline: Empower Your Workflow with Effortless Admin Management
 icon: https://svgshare.com/i/18zM.svg
 category: Development
-version: "1.0.0"
+version: "1.0.1"
 port: 4321
 description: >-
   The Admin Panel is a powerful and intuitive tool designed to streamline your administrative tasks. 
